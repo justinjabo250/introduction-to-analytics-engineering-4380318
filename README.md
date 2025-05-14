@@ -3,7 +3,7 @@ This is the repository for the LinkedIn Learning course Introduction to Analytic
 
 ![Introduction to Analytics Engineering][lil-thumbnail-url] 
 
-Analytics engineering is a relatively new role in the field of data. If you are looking to begin a career as an analytics engineer or hire for an analytics engineering position in your company, this course can give you the information you need to get started. Instructor and analytics engineer Amataverna Lee guides you through what analytics engineering is, why it matters, and which roles can transition most easily into analytics engineering. She explains data modeling, cloud data warehouses, data pipeline tools, and business intelligence tools. Amataverna goes over several software engineering best practices. Plus, she shows you how documentation and communication are important in analytics engineering roles.
+Analytics engineering is a relatively new role in the field of data. If you are looking to begin a career as an analytics engineer or hire for an analytics engineering position in your company, this course can give you the information you need to get started. Instructor and analytics engineer Amataverna Lee guides you through what analytics engineering is, why it matters, and which roles can transition most easily into analytics engineering. She explains data modeling, cloud data warehouses, data pipeline tools, and business intelligence tools. Amataverna goes over several software engineering best practices. Plus, she shows you how documentation and communication are important in analytics engineering roles...
 
 
 
